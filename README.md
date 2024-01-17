@@ -4,7 +4,7 @@
 
 # AstroTinker Bot (AB) Theme Grader App
 
-This repository contains the binaries of ***Grader App*** for ***v Bot (AB)*** Theme in ***eYRC 2023-24***.
+This repository contains the binaries of ***Grader App*** for ***AstroTinker Bot (AB)*** Theme in ***eYRC 2023-24***.
 
 ## Prerequisites
 
@@ -18,9 +18,9 @@ The Grader App has been tested **only** on the following **64 bit OS**:
 Following are the contents:
 
 - **task5_grader_app** - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
-  - Latest version is **[v1.0.0](https://github.com/kalindkaria/ab-theme-grader-app/releases/tag/v1.0.0)**
-    - **`ab-gui-1.0.0.AppImage`**
-    - **`ab-gui-1.0.0.exe`**
+  - Latest version is **[v1.0.1](https://github.com/kalindkaria/ab-theme-grader-app/releases/tag/v1.0.1)**
+    - **`ab-gui-1.0.1.AppImage`**
+    - **`ab-gui-1.0.1.exe`**
 
 ## Releases
 
