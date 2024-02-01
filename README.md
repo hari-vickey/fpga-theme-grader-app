@@ -10,12 +10,17 @@ This repository contains the binaries of ***Grader App*** for ***AstroTinker Bot
 
 The Grader App has been tested **only** on the following **64 bit OS**:
 
-- ***Windows 11***
+- ***Windows 10 and 11***
 - ***Ubuntu 22.04***
 
 ## Description
 
 Following are the contents:
+
+- **practice_task_grader_app** - This folder consists the binary files of ***Practice Task*** Grader App for **Linux** and **Windows** OS.
+  - Latest version is **[v1.1.0](https://github.com/kalindkaria/ab-theme-grader-app/releases/tag/v1.1.0)**
+    - **`ab-gui-1.1.0.AppImage`**
+    - **`ab-gui-1.1.0.exe`**
 
 - **task5_grader_app** - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
   - Latest version is **[v1.0.1](https://github.com/kalindkaria/ab-theme-grader-app/releases/tag/v1.0.1)**

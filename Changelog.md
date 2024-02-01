@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## 1.1.0 - 2024-02-01
+
+### Added
+
+- App for *auto grading* of *Practice Task*, tested on Windows 10, 11 and Ubuntu 22.04.
+
+<br>
+
+---
+
 ## 1.0.1 - 2024-01-17
 
 ### Fixed
