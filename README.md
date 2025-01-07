@@ -19,8 +19,8 @@ Following are the contents:
 
 - **EB Theme:** *task5_grader_app* - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
   - Latest version is **[v2.0.0](https://github.com/hari-vickey/fpga-theme-grader-app/releases/tag/v2.0.0)**
-    - **`eb-gui-2.0.0-linux.zip`**
-    - **`eb-gui-2.0.0-win.zip`**
+    - **`eb-gui-2.0.0.AppImage`**
+    - **`eb-gui-2.0.0.exe`**
 
 ## Releases
 
