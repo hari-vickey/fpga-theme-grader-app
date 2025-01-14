@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## 2.0.1 - 2025-01-14
+
+### Updated
+
+- App updated to spawn obstacles on fixed set and randomly on random set
+
 ## 2.0.0 - 2025-01-07
 
 ### Added
